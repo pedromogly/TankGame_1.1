@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<widget xmlns = "http://www.w3.org/ns/widgets"
+		xmlns:gap = "http://tanktank.com/nd/1.0"
+		id		= "com.tanktank.mobile"
+		versionCode="10"
+		version   = "1.0.0">
+		
+		
+	<name>Tank!</name>
+	
+	
+	<description>
+		Jogo produzido no curso de desenvolvimento de jogos HTML5/JS
+	</description>
+	
+	<author href="http://www.aluno.com.br" email="aluno@hotmail.com">
+	</author>
+	
+	<preference name="fullscreen" value="true" />
+	<icon src="imagens/icon.png" />
+	
+</widget>
+
+	
